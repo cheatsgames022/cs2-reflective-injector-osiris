@@ -65,7 +65,7 @@ Injector DLL:
 
 [Download HERE][download]
 
-[download]: https://mega.nz/file/anoHUThT#tcTR8oHH0Qmd2jnNnFXx-XxWRoPIRVWcRwE1yb1Wx1Y
+[download]: https://mega.nz/file/ir42VQqT#27-zZ8rAK_DW0DnMzUgA7n4VhYg0VelCmSL15i6GZVE
 
 **2 -** Using **WinRAR**, extract **osiris+injector.zip** to a location of your choice using the password;
 
