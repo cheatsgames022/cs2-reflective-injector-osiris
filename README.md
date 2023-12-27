@@ -50,7 +50,7 @@ In game:
 
 Loaded Counter-Strike 2:
 
-![Loaded Counter-Strike 2](https://raw.githubusercontent.com/cheatsgames022/cs2-reflective-injector-osiris/main/.github/img01.jpg)
+![Loaded Counter-Strike 2](https://raw.githubusercontent.com/cheatsgames022/cs2-reflective-injector-osiris/main/.github/img01.png)
 <br>
 
 Injector DLL:
