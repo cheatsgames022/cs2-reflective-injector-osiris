@@ -50,12 +50,12 @@ In game:
 
 Loaded Counter-Strike 2:
 
-![Loaded Counter-Strike 2](https://raw.githubusercontent.com/cheatsgames022/cs2-reflective-injector-osiris/main/.github/img01.png)
+![Loaded Counter-Strike 2](https://raw.githubusercontent.com/cheatsgames022/cs2-reflective-injector-osiris/main/.github/img01.jpg)
 <br>
 
 Injector DLL:
 
-![Injector DLL](https://raw.githubusercontent.com/cheatsgames022/cs2-reflective-injector-osiris/main/.github/img02.jpg)
+![Injector DLL](https://raw.githubusercontent.com/cheatsgames022/cs2-reflective-injector-osiris/main/.github/img02.png)
 
 
 # ::> Usage (steps):
