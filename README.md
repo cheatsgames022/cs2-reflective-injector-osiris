@@ -61,8 +61,9 @@ Injector DLL:
 # ::> Usage (steps):
 
 **1 -** Download **Osiris + Injector** from the Download button below, you will be redirected to download from [Mega](https://mega.nz)
-{:.btn_download}
-[Download][download]
+
+
+[Download HERE][download]
 
 [download]: https://mega.nz/file/anoHUThT#tcTR8oHH0Qmd2jnNnFXx-XxWRoPIRVWcRwE1yb1Wx1Y
 
